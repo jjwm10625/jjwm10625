@@ -1,8 +1,7 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&&color=0:e0c3fc,100:8ec5fc&height=300&section=header&text=Cho%20Youngseo&animation=fadeIn&fontSize=70&fontColor=000000&stroke=e0c3fc" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&&color=0:7085B6,100:DEF3F8&height=300&section=header&text=Cho%20Youngseo&animation=fadeIn&fontSize=70&fontColor=000000&stroke=7085B6" width="900"/>
 </div>
-
 <br>
 
 ### ▎Tech Stacks ⚒️
