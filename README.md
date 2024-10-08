@@ -1,3 +1,4 @@
+
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=venom&&color=0:7085B6,100:DEF3F8&height=300&section=header&text=Cho%20Youngseo&animation=fadeIn&fontSize=70&fontColor=000000&stroke=7085B6" width="900"/>
@@ -23,6 +24,17 @@
   </tr>
 </table>
 <br>
+
+### ▎Studying 📚
+
+---
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>
+</div>
+<br>
 <br>
 
 ### ▎Contact Me 🦊
@@ -34,4 +46,3 @@
 
 </div>
 <br>
-
