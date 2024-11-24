@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%;">
+  <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
         <h4>⚒️ Tech Stacks</h4>
@@ -27,12 +27,11 @@
 </div>
 <br>
 
-
 ### ▎GitHub Rank & Most Used Languages 📊
 ---
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%;">
+  <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=jjwm10625&show_icons=true&theme=radical&count_private=true" width="450"/>
@@ -48,7 +47,7 @@
 ### ▎Projects 💡
 ---
 
-<table style="border-collapse: collapse; border: none; width: 100%;">  
+<table style="border-collapse: collapse; width: 100%; border: none;">  
   <tr>  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
       <h4>🎵 Musically</h4>  
@@ -65,7 +64,6 @@
 </table>
 <br>
 
-
 ### ▎Contact Me 🦊
 ---
 
@@ -81,4 +79,3 @@
   </a>
 </div>
 <br>
-
