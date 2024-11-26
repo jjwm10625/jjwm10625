@@ -16,15 +16,15 @@
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
       </td>
-    <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
-      <h4>📚 Studying</h4>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>
-     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-   </td>
+<td style="border: none; vertical-align: top; width: 50%; text-align: center;">
+  <h4>📚 Studying</h4>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"/>
+</td>
     </tr>
   </table>
 </div>
@@ -55,7 +55,7 @@
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
       <h4>🎵 Musically</h4>  
       <p>  
-        Musically is a platform designed for musical theater lovers to connect with others who share their passion. This site allows users to explore various musicals, their plots, and locations, as well as follow actors and performances that intrigue them. Whether you're a longtime fan or a newcomer, Musically provides an interactive and enriching space to discuss and discover the world of musicals.  
+Musically는 뮤지컬 애호가들이 서로의 열정을 공유하며 소통할 수 있도록 설계된 플랫폼입니다. 이 사이트에서는 다양한 뮤지컬과 그 줄거리, 공연 장소를 탐색할 수 있을 뿐만 아니라, 관심 있는 배우와 공연을 팔로우할 수도 있습니다. 뮤지컬을 오래 사랑해 온 팬이든, 새롭게 입문한 관객이든, Musically는 뮤지컬의 세계를 탐구하고 이야기 나눌 수 있는 풍성한 공간을 제공합니다. 🎭
       </p>  
       <a href="https://github.com/jjwm10625/music-ally-client.git" target="_blank">  
         <img src="https://img.shields.io/badge/GitHub-Musically-181717?style=flat-square&logo=GitHub&logoColor=white" style="margin-left: 10px;"/>  
