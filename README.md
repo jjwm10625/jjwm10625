@@ -3,6 +3,36 @@
 </div>
 <br>
 
+### ▎Career 📈
+---
+
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="background-color: transparent;">
+    <th style="text-align: left; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Activity</th>
+    <th style="text-align: left; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Period</th>
+    <th style="text-align: left; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Description</th>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">SOLUX</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.03 ~ ing</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">숙명여자대학교 프로그래밍 중앙동아리 29기</td>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">GDGoC Sookmyung</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ ingt</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">Google Developer Groups of Sookmyung 5기 Android 파트 Member</td>
+  </tr>
+      <tr style="background-color: transparent;">
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">COTATO/td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ ing</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 PM</td>
+  </tr>
+</table>
+</div>
+<br>
+
+
 ### ▎Tech Stacks & Studying ⚒️ 📚
 ---
 
@@ -66,7 +96,7 @@ Musically는 뮤지컬 애호가들을 위한 웹 플랫폼으로, 사용자들�
   </tr>  
   <tr style="background-color: transparent;">  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-      <h4>🏠 RoomFit</h4>  
+      <h4>🏠 RoomFit(2024.10.26 ~ 2024.12.22)</h4>  
       <p>  
 RoomFit은 대학생들이 성향에 맞는 룸메이트를 쉽게 찾을 수 있도록 돕는 Android 애플리케이션입니다. 사용자는 자신의 성향에 맞는 룸메이트를 모집하는 글을 작성하거나 다른 사용자가 작성한 모집글을 찾아볼 수 있습니다. 이 앱은 주거 문제를 해결하고자 하는 대학생들을 위한 신뢰할 수 있는 커뮤니티 기반의 플랫폼으로, 캠퍼스 내에서 쉽게 룸메이트를 찾고 생활 스타일에 맞는 사람들과 함께 살 수 있도록 도와줍니다. Kotlin과 Jetpack Compose를 사용하여 개발되었으며, 직관적이고 사용하기 쉬운 인터페이스로 설계되었습니다. 
       </p>  
