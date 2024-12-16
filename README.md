@@ -50,12 +50,12 @@
 ### ▎Projects 💡
 ---
 
-<table style="border-collapse: collapse; width: 100%; border: none;">  
-  <tr>  
+<table style="border-collapse: collapse; width: 100%; border: none; background-color: transparent;">  
+  <tr style="background-color: transparent;">  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-      <h4>🎵 Musically</h4>  
+      <h4>🎵 Musically <span style="font-size: 12px; color: gray;">(2024.3.15 ~ 2024.8.5)</span></h4>  
       <p>  
-Musically는 뮤지컬 애호가들이 서로의 열정을 공유하며 소통할 수 있도록 설계된 플랫폼입니다. 이 사이트에서는 다양한 뮤지컬과 그 줄거리, 공연 장소를 탐색할 수 있을 뿐만 아니라, 관심 있는 배우와 공연을 팔로우할 수도 있습니다. 뮤지컬을 오래 사랑해 온 팬이든, 새롭게 입문한 관객이든, Musically는 뮤지컬의 세계를 탐구하고 이야기 나눌 수 있는 풍성한 공간을 제공합니다. 🎭
+Musically는 뮤지컬 애호가들을 위한 웹 플랫폼으로, 사용자들이 다양한 뮤지컬 작품을 탐색하고, 공연 정보를 얻으며, 좋아하는 배우와 공연을 팔로우할 수 있습니다. 웹 기반으로 설계되어 있어 누구나 손쉽게 접속해 다양한 뮤지컬에 대한 정보를 얻고, 커뮤니티와 소통할 수 있는 공간을 제공합니다. 팬들과의 소통을 중요시하는 플랫폼으로, 뮤지컬에 대한 열정을 공유하고, 새롭고 흥미로운 공연을 찾는 데 도움을 줍니다.  
       </p>  
       <a href="https://github.com/jjwm10625/music-ally-client.git" target="_blank">  
         <img src="https://img.shields.io/badge/GitHub-Musically-181717?style=flat-square&logo=GitHub&logoColor=white" style="margin-left: 10px;"/>  
@@ -64,8 +64,21 @@ Musically는 뮤지컬 애호가들이 서로의 열정을 공유하며 소통�
       </a>  
     </td>  
   </tr>  
+  <tr style="background-color: transparent;">  
+    <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
+      <h4>🏠 RoomFit</h4>  
+      <p>  
+RoomFit은 대학생들이 성향에 맞는 룸메이트를 쉽게 찾을 수 있도록 돕는 Android 애플리케이션입니다. 사용자는 자신의 성향에 맞는 룸메이트를 모집하는 글을 작성하거나 다른 사용자가 작성한 모집글을 찾아볼 수 있습니다. 이 앱은 주거 문제를 해결하고자 하는 대학생들을 위한 신뢰할 수 있는 커뮤니티 기반의 플랫폼으로, 캠퍼스 내에서 쉽게 룸메이트를 찾고 생활 스타일에 맞는 사람들과 함께 살 수 있도록 도와줍니다. Kotlin과 Jetpack Compose를 사용하여 개발되었으며, 직관적이고 사용하기 쉬운 인터페이스로 설계되었습니다. 
+      </p>  
+      <a href="https://github.com/jjwm10625/Roomfit.git" target="_blank">  
+        <img src="https://img.shields.io/badge/GitHub-RoomFit-181717?style=flat-square&logo=GitHub&logoColor=white" style="margin-left: 10px;"/>  
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>  
+      </a>  
+    </td>  
+  </tr>  
 </table>
-<br>
+
 
 ### ▎Contact Me 🦊
 ---
