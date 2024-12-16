@@ -19,7 +19,7 @@
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">숙명여자대학교 프로그래밍 중앙동아리 29기</td>
   </tr>
   <tr style="background-color: transparent;">
-    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">GDGoC Sookmyung</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">GDG Sookmyung</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ ing</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">Google Developer Groups of Sookmyung 5기 Android 파트 Member</td>
   </tr>
