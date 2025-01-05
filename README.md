@@ -107,6 +107,20 @@ RoomFit은 대학생들이 성향에 맞는 룸메이트를 쉽게 찾을 수 �
       </a>  
     </td>  
   </tr>  
+  <tr style="background-color: transparent;">  
+    <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
+      <h4>🌟 in/space <span style="font-size: 12px; color: gray;">(2024.10.7 ~ 진행 중)</span></h4>  
+      <p>  
+        in/space는 사진, 영상, 음악을 모아 공감각적인 공간을 제작할 수 있는 플랫폼입니다.  
+        창작 작업, 취미 공유, 웹사이트 기능 레퍼런스 수집 등 다양한 활용이 가능합니다.  
+      </p>  
+      <a href="https://github.com/2024-2-SOLUX-in-space" target="_blank">  
+        <img src="https://img.shields.io/badge/GitHub-in%2Fspace-181717?style=flat-square&logo=GitHub&logoColor=white" />  
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" />  
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />  
+      </a>  
+    </td>  
+  </tr>  
 </table>
 
 
