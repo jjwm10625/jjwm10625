@@ -121,6 +121,41 @@ RoomFit은 대학생들이 성향에 맞는 룸메이트를 쉽게 찾을 수 �
       </a>  
     </td>  
   </tr>  
+    </tr>  
+  <tr style="background-color: transparent;">  
+    <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
+      <h4>📝 T-LINK <span style="font-size: 12px; color: gray;">(2024.10.27 ~ 진행 중)</span></h4>  
+      <p>  
+        T-LINK는 선생님, 학생, 그리고 학부모를 위한 맞춤형 과외 플랫폼입니다.  
+        숙제 게시판, 일지 게시판, 캘린더 기능 등 다양한 도구를 통해 학습 관리를 효과적으로 지원합니다.  
+        과외 활동 전반을 체계적이고 편리하게 운영할 수 있는 기능을 제공합니다.  
+        프로젝트 매니저(PM)로 참여하며 기획 및 전반적인 협업을 이끌었습니다.  
+      </p>  
+      <a href="https://github.com/IT-Cotato/10th-T-LINK-FE" target="_blank">  
+        <img src="https://img.shields.io/badge/GitHub-T--LINK-181717?style=flat-square&logo=GitHub&logoColor=white" />  
+        <img src="https://img.shields.io/badge/Project%20Manager-217346?style=for-the-badge&logo=ManageIQ&logoColor=white" />  
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />  
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />  
+      </a>  
+    </td>  
+  </tr>
+  <tr style="background-color: transparent;">  
+    <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
+      <h4>📍 혼잡제로 (CrowdZero) <span style="font-size: 12px; color: gray;">(2025.1.2 ~ 진행 중)</span></h4>  
+      <p>  
+        서울 도심 주요 집회 장소의 실시간 혼잡도와 교통 통제 정보를 확인할 수 있는 앱 서비스입니다.  
+        사용자가 간편하게 혼잡 상황을 파악하고, 대체 경로를 찾을 수 있도록 설계되었습니다.  
+        Android Jetpack Compose와 Kotlin을 활용하여 직관적인 UI와 안정적인 기능을 구현하였습니다.  
+      </p>  
+      <a href="#" target="_blank">  
+        <img src="https://img.shields.io/badge/Android%20Compose-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />  
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />  
+      </a>  
+    </td>  
+  </tr>
+
+
+
 </table>
 
 
