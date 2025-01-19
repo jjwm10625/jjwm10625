@@ -32,6 +32,26 @@
 </div>
 <br>
 
+### ▎Awards 🏆
+---
+
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%; border: none;">
+    <tr style="background-color: transparent;">
+      <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Award</th>
+      <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Date</th>
+      <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Description</th>
+    </tr>
+    <tr style="background-color: transparent;">
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">5TH COKERTHON</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2025.01.17~2025.01.18</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">대상</td>
+    </tr>
+  </table>
+</div>
+<br>
+
+
 
 ### ▎Tech Stacks & Studying ⚒️ 📚
 ---
