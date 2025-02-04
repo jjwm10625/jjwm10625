@@ -15,7 +15,7 @@
   </tr>
   <tr style="background-color: transparent;">
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">SOLUX</td>
-    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.03 ~ ing</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.03 ~ 2025.02</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">숙명여자대학교 프로그래밍 중앙동아리 29기</td>
   </tr>
   <tr style="background-color: transparent;">
@@ -41,7 +41,6 @@
       <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Award</th>
       <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Date</th>
       <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Description</th>
-    </tr>
     <tr style="background-color: transparent;">
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">5TH COKERTHON</td>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2025.01.17~2025.01.18</td>
@@ -131,7 +130,7 @@
   </tr>  
   <tr style="background-color: transparent;">  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-      <h4>🌟 in/space <span style="font-size: 12px; color: gray;">(2024.10.7 ~ 2025.1.3)</span></h4>  
+      <h4>🌟 in/space <span style="font-size: 12px; color: gray;">(2024.10.7 ~ 2025.2.3)</span></h4>  
       <p>  
         in/space는 사진, 영상, 음악을 모아 공감각적인 공간을 제작할 수 있는 플랫폼입니다.  
         Spring Boot를 활용하여 회원가입, 로그인, 비밀번호 찾기, 마이페이지 확인 및 내 정보 수정 기능을 구현하였으며, 사용자 데이터를 안전하게 처리할 수 있도록 설계했습니다.  
@@ -145,7 +144,7 @@
   </tr>  
   <tr style="background-color: transparent;">  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-      <h4>📝 T-LINK <span style="font-size: 12px; color: gray;">(2024.10.27 ~ 진행 중)</span></h4>  
+      <h4>📝 T-LINK <span style="font-size: 12px; color: gray;">(2024.10.27 ~ 2025.2.21)</span></h4>  
       <p>  
         T-LINK는 선생님, 학생, 그리고 학부모를 위한 맞춤형 과외 플랫폼으로, 학습 관리와 과외 활동을 지원합니다.  
         프로젝트 매니저(PM)로 참여하여 전반적인 기획과 협업을 이끌었으며, 숙제 게시판, 일지 게시판, 캘린더 기능 등을 중심으로 사용자의 요구사항을 반영한 프로젝트 진행을 주도했습니다.  
