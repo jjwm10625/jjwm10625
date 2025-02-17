@@ -18,15 +18,15 @@
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.03 ~ 2025.02</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">숙명여자대학교 프로그래밍 중앙동아리 29기</td>
   </tr>
+    <tr style="background-color: transparent;">
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">COTATO</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ 2025.02</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 PM</td>
+  </tr>
   <tr style="background-color: transparent;">
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">GDG Sookmyung</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ ing</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">Google Developer Groups of Sookmyung 5기 Android 파트 Member</td>
-  </tr>
-      <tr style="background-color: transparent;">
-    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">COTATO</td>
-    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ ing</td>
-    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 PM</td>
   </tr>
 </table>
 </div>
@@ -61,6 +61,7 @@
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
         <h4>⚒️ Tech Stacks</h4>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -69,7 +70,6 @@
   <h4>📚 Studying</h4>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"/>
@@ -159,7 +159,7 @@
   </tr>  
   <tr style="background-color: transparent;">  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-      <h4>📍 혼잡제로 (CrowdZero) <span style="font-size: 12px; color: gray;">(2025.1.2 ~ 진행 중)</span></h4>  
+      <h4>📍 혼잡제로 (CrowdZero) <span style="font-size: 12px; color: gray;">(2025.1.2 ~ 2025.2.28)</span></h4>  
       <p>  
         서울 도심 주요 집회 장소의 실시간 혼잡도와 교통 통제 정보를 제공하는 Android 애플리케이션입니다.  
         Kotlin과 Jetpack Compose로 직관적인 UI를 구현 중이며, 향후 주요 기능을 추가할 예정입니다.  
