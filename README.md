@@ -81,20 +81,21 @@
 
 ### ▎GitHub Rank & Most Used Languages 📊
 ---
-
 <div align="center">
   <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jjwm10625&show_icons=true&theme=radical&count_private=true" width="450"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=jjwm10625&show_icons=true&theme=graywhite&count_private=true" width="450"/>
       </td>
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjwm10625&layout=compact&theme=radical" width="450"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjwm10625&layout=compact&theme=graywhite&count_private=true" width="450"/>
       </td>
     </tr>
   </table>
 </div>
 <br>
+
+
 
  ### ▎Projects 💡  
 ---
