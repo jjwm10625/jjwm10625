@@ -158,7 +158,7 @@
   </tr>  
   <tr style="background-color: transparent;">  
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-      <h4>📍 혼잡제로 (CrowdZero) <span style="font-size: 12px; color: gray;">(2025.1.2 ~ 2025.2.28)</span></h4>  
+      <h4>📍 혼잡제로 CrowdZero <span style="font-size: 12px; color: gray;">(2025.1.2 ~ 2025.2.28)</span></h4>  
       <p>  
         서울 도심 주요 집회 장소의 실시간 혼잡도와 교통 통제 정보를 제공하는 Android 애플리케이션입니다.  
         Kotlin과 Jetpack Compose로 직관적인 UI를 구현 중이며, 향후 주요 기능을 추가할 예정입니다.  
