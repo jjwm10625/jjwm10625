@@ -160,10 +160,12 @@
     <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
       <h4>📍 혼잡제로 CrowdZero <span style="font-size: 12px; color: gray;">(2025.1.2 ~ 2025.2.28)</span></h4>  
       <p>  
-        서울 도심 주요 집회 장소의 실시간 혼잡도와 교통 통제 정보를 제공하는 Android 애플리케이션입니다.  
-        Kotlin과 Jetpack Compose로 직관적인 UI를 구현 중이며, 향후 주요 기능을 추가할 예정입니다.  
+        서울 도심 주요 집회 장소의 실시간 혼잡도와 교통 통제 정보를 제공하는 Android 애플리케이션입니다.
+        Kotlin과 Jetpack Compose를 사용하여 캘린더 화면을 개발하였으며, 특정 날짜를 선택하면 해당일의 집회 일정과 예상 혼잡도를 확인할 수 있도록 구현했습니다.
       </p>  
-      <a href="#" target="_blank">  
+      <a href="#" target="_blank">        
+        <a href="https://github.com/Team-CrowdZero/CrowdZero-Android" target="_blank">  
+        <img src="https://img.shields.io/badge/GitHub-CrowdZero-181717?style=flat-square&logo=GitHub&logoColor=white" />  
         <img src="https://img.shields.io/badge/Android%20Compose-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />  
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />  
       </a>  
