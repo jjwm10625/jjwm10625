@@ -79,7 +79,7 @@
 </div>
 <br>
 
-### ▎GitHub Rank & Most Used Languages 📊
+### ▎GitHub Rank & Contributions 📊
 ---
 <div align="center">
   <table border="0" style="border-collapse: collapse; width: 100%; border: none;">
@@ -89,13 +89,14 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jjwm10625&show_icons=true&theme=graywhite&count_private=true" width="500"/>
       </td>
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
-        <!-- Most Used Languages (블로그 저장소 제외) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjwm10625&layout=compact&theme=graywhite&count_private=true&langs_count=10&exclude_repo=jjwm10625.github.io&cache_seconds=1800" width="500"/>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjwm10625&theme=graywhite" width="500"/>
       </td>
     </tr>
   </table>
 </div>
 <br>
+
+
 
 
  ### ▎Projects 💡  
