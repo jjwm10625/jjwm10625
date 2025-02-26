@@ -89,13 +89,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jjwm10625&show_icons=true&theme=graywhite&count_private=true" width="500"/>
       </td>
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjwm10625&theme=graywhite" width="500"/>
+        <!-- GitHub Contribution Graph (Custom Theme) -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjwm10625&bg_color=ffffff&color=000000&line=888888&point=000000&area=false&hide_border=true" width="500"/>
       </td>
     </tr>
   </table>
 </div>
-<br>
-
 
 
 
