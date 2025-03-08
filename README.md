@@ -21,12 +21,17 @@
     <tr style="background-color: transparent;">
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">COTATO</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ 2025.02</td>
-    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 PM</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 10기 PM</td>
   </tr>
   <tr style="background-color: transparent;">
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">GDG Sookmyung</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08 ~ ing</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">Google Developer Groups of Sookmyung 5기 Android 파트 Member</td>
+  </tr>
+    <tr style="background-color: transparent;">
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">COTATO</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2025.03 ~ ing</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 11기 FE</td>
   </tr>
 </table>
 </div>
