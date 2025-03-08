@@ -174,9 +174,9 @@
       <a href="#" target="_blank">        
         <a href="https://github.com/Team-CrowdZero/CrowdZero-Android" target="_blank">  
         <img src="https://img.shields.io/badge/GitHub-CrowdZero-181717?style=flat-square&logo=GitHub&logoColor=white" />  
-        <img src="https://img.shields.io/badge/Android%20Compose-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />  
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />  
-      </a>  
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>  
+      </a> 
     </td>  
   </tr>  
 </table>
