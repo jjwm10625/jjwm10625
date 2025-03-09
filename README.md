@@ -183,6 +183,8 @@
 
 
 
+다음과 같이 티스토리를 추가하면 됩니다.
+
 ### ▎Contact Me 🦊
 ---
 
@@ -191,10 +193,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="mailto:choyeongseo950@gmail.com" title="Send me an email">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://velog.io/@jjwm10625/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="https://zzeroxeo.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-FF7A00?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 </div>
 <br>
