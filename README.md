@@ -196,7 +196,7 @@
   <a href="https://velog.io/@jjwm10625/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
-  <a href="https://zzeroxeo.tistory.com">
+  <a href="https://zzeroarchive.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-FF7A00?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 </div>
