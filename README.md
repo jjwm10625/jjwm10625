@@ -33,6 +33,12 @@
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2025.03 ~ ing</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 11기 FE</td>
   </tr>
+  </tr>
+    <tr style="background-color: transparent;">
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">AT SOPT</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2025.03 ~ ing</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 벤처 창업 동아리 36기 iOS 파트</td>
+  </tr>
 </table>
 </div>
 <br>
