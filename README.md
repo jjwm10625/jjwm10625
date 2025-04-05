@@ -53,6 +53,11 @@
       <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Date</th>
       <th style="text-align: center; padding: 10px; border: 1px solid #ddd; background-color: #f8f8f8;">Description</th>
     <tr style="background-color: transparent;">
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">SOLUX 29기 프로젝트 발표회</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2024.08.05</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">웹 2위</td>
+    </tr>
+    <tr style="background-color: transparent;">
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">5TH COKERTHON</td>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2025.01.17~2025.01.18</td>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">대상</td>
