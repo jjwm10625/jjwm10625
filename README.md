@@ -81,6 +81,7 @@
       <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
         <h4>📚 Studying</h4>
         <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
         <img src="https://img.shields.io/badge/SwiftUI-005BBB?style=for-the-badge&logo=Swift&logoColor=white"/>
         <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
