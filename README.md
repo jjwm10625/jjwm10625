@@ -136,7 +136,7 @@
       <h4>🏠 RoomFit <span style="font-size: 12px; color: gray;">(2024.10.26 ~ 2024.12.22)</span></h4>  
       <p>  
         RoomFit은 대학생들이 성향에 맞는 룸메이트를 쉽게 찾을 수 있도록 돕는 Android 애플리케이션입니다.  
-        앱 아이콘 디자인과 1차 UI 디자인, 스플래시 화면, 로그인 페이지, 비밀번호 찾기 페이지를 설계하였고, 회원가입 페이지와 채팅 페이지를 구현했습니다.  
+        앱 아이콘 디자인과 1차 UI 디자인, 스플래시 화면, 로그인 페이지, 비밀번호 찾기 페이지를 설계하였고, 회원가입 페이지와 채팅 페이지, 그리고 마이페이지를 구현했습니다.  
       </p>  
       <a href="https://github.com/jjwm10625/Roomfit.git" target="_blank">  
         <img src="https://img.shields.io/badge/GitHub-RoomFit-181717?style=flat-square&logo=GitHub&logoColor=white" style="margin-left: 10px;"/>  
