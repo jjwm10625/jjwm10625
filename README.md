@@ -62,6 +62,11 @@
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2025.01.17~2025.01.18</td>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">대상</td>
     </tr>
+        <tr style="background-color: transparent;">
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">AT SOPT Momentum: 앱잼 데모데이</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2025.06.14~2025.07.19</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">대상 & 특별상</td>
+    </tr>
   </table>
 </div>
 <br>
@@ -188,7 +193,36 @@
         <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>  
       </a> 
     </td>  
-  </tr>  
+  </tr>
+  </tr>
+<tr style="background-color: transparent;">  
+  <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
+    <h4>🎨 모딕 Modic <span style="font-size: 12px; color: gray;">(2025.03.18 ~ ing)</span></h4>  
+    <p>  
+AI 창작물의 저작권 보호와 창작자 권리 보장을 위한 플랫폼입니다.
+작품 업로드와 AI 창작 도구를 통해 창작자가 안심하고 창작할 수 있는 환경을 제공합니다.
+    </p>  
+    <a href="https://github.com/Modic-2025" target="_blank">  
+      <img src="https://img.shields.io/badge/GitHub-Modic-181717?style=flat-square&logo=GitHub&logoColor=white" />  
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>  
+    </a> 
+  </td>  
+</tr>
+
+<tr style="background-color: transparent;">  
+  <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
+    <h4>👋 하이링구얼 HiLingual <span style="font-size: 12px; color: gray;">(2025.06.14 ~ ing)</span></h4>  
+    <p>  
+      영어 일기 작성을 통해 꾸준한 영어 루틴 형성을 돕는 iOS 애플리케이션입니다.
+      매일 제공되는 주제를 바탕으로 영어로 일기를 쓰고, 기록을 관리하며 작문 습관을 만들어갈 수 있습니다.
+    </p>  
+    <a href="https://github.com/Hi-lingual" target="_blank">  
+      <img src="https://img.shields.io/badge/GitHub-Hi--lingual-181717?style=flat-square&logo=GitHub&logoColor=white" />  
+      <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>  
+    </a> 
+  </td>  
+</tr>
 </table>
 
 
