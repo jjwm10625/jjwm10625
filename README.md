@@ -30,7 +30,7 @@
   </tr>
     <tr style="background-color: transparent;">
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">COTATO</td>
-    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2025.03 ~ ing</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2025.03 ~ 2025.08</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">대학생 연합 IT 동아리 11기 FE</td>
   </tr>
   </tr>
