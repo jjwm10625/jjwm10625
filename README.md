@@ -63,7 +63,7 @@
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">대상</td>
     </tr>
         <tr style="background-color: transparent;">
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">AT SOPT Momentum: 앱잼 데모데이</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">AT SOPT Momentum</td>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 33%;">2025.06.14~2025.07.19</td>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd; width: 34%;">대상 & 특별상</td>
     </tr>
