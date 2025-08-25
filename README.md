@@ -194,21 +194,6 @@
       </a> 
     </td>  
   </tr>
-  </tr>
-<tr style="background-color: transparent;">  
-  <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
-    <h4>🎨 모딕 Modic <span style="font-size: 12px; color: gray;">(2025.03.18 ~ ing)</span></h4>  
-    <p>  
-AI 창작물의 저작권 보호와 창작자 권리 보장을 위한 플랫폼입니다.
-작품 업로드와 AI 창작 도구를 통해 창작자가 안심하고 창작할 수 있는 환경을 제공합니다.
-    </p>  
-    <a href="https://github.com/Modic-2025" target="_blank">  
-      <img src="https://img.shields.io/badge/GitHub-Modic-181717?style=flat-square&logo=GitHub&logoColor=white" />  
-      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>  
-    </a> 
-  </td>  
-</tr>
-
 <tr style="background-color: transparent;">  
   <td style="border: none; vertical-align: top; padding: 10px; width: 100%;">  
     <h4>👋 하이링구얼 HiLingual <span style="font-size: 12px; color: gray;">(2025.06.14 ~ ing)</span></h4>  
