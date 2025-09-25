@@ -207,7 +207,7 @@
       영어 일기 작성을 통해 꾸준한 영어 루틴 형성을 돕는 iOS 애플리케이션입니다.
       매일 제공되는 주제를 바탕으로 영어로 일기를 쓰고, 기록을 관리하며 작문 습관을 만들어갈 수 있습니다.
     </p>  
-    <a href="https://github.com/Hi-lingual" target="_blank">  
+    <a href="https://github.com/Hi-lingual/Hilingual-iOS" target="_blank">  
       <img src="https://img.shields.io/badge/GitHub-Hi--lingual-181717?style=flat-square&logo=GitHub&logoColor=white" />  
       <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>  
