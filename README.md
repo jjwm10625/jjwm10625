@@ -47,7 +47,7 @@
   </tr>
   </tr>
     <tr style="background-color: transparent;">
-    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">Apple Developer Academy @ POSTECH</td>
+    <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">Apple Developer Academy @POSTECH</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 33%;">2026.03 ~ ing</td>
     <td style="padding: 10px; border: 1px solid #ddd; width: 34%;">애플 디벨로퍼 아카데미 5기</td>
   </tr>
